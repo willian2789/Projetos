@@ -1,2 +1,2 @@
 # Trabalho Uninove Primeiro semestre
-Trabalho semestral uninove
+Nesse trabalho, construimos um sistema de gerenciamento de caixa em C
